@@ -76,6 +76,7 @@ section{
     background-color: rgba(22, 22, 22, 0.322);
 }
 footer{
+    padding: 8px;
     font-family: var(--fonte2);
     width: 100%;
     background-color: black;;
